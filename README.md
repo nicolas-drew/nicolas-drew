@@ -9,6 +9,6 @@
 
 ## 📫 Get in Touch
 
-📍 Based in Agen, France  
-✉️ [Email](nicolas.drew@hotmail.com)
+📍 Based in Agen, France
+📫 [nicolas.drew@hotmail.com](mailto:nicolas.drew@hotmail.com)
 🔗 [Portfolio](https://nicolas-drew.github.io/Portfolio/)
