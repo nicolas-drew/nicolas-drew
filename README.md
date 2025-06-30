@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Nicolas Drew
 
-🇫🇷 I'm a 26-year-old aspiring web developer from France  
+🇫🇷 I'm a 26-year-old aspiring web developer from France
 🎓 Currently enrolled in a web development training program
-💻 Passionate about web technologies and creative coding  
+💻 Passionate about web technologies and creative coding
 🧠 I'm currently learning **HTML**, **CSS**, and **JavaScript**
 
 ---
